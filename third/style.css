@@ -1,0 +1,58 @@
+html, body{
+	height: 110%;
+}
+
+.header{
+	background: #333333;
+	color: white;
+	height: 8%;
+}
+
+.apple{
+	display: inline-block;
+	font-size: 100%;
+	margin: 3% 8% 2% 8%;
+}
+
+.google{
+	display: inline-block;
+	font-size: 100%;
+}
+
+.left-column{
+	display: inline-block;
+	float: left;
+	height: 80%;
+	width: 40%;
+	margin: 3% 2% 5% 5%;
+	font-size: 10px;
+}
+
+.type{
+	font-size: 300%;
+}
+
+.right-column{
+	display: inline-block;
+	float: left;
+	height: 80%;
+	width: 40%;
+	margin: 5% 2% 5% 5%;
+	font-size: 10px;
+}
+
+.box{
+	height: 30%;
+	width: 100%;
+	background-color: #D8D8D8;
+}
+
+.text{
+
+}
+
+.footer{
+	background: #333333;
+	height: 8%;
+	clear: both;
+}
